@@ -1,4 +1,4 @@
-# SQL-database
+## Querying DataBase (MYSQL)
 sql training with Edx
 
 ### Q1.
