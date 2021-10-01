@@ -1,4 +1,6 @@
-
+@settings {
+  font-size: 40;
+}
 
 ## **Querying DataBase** (MYSQL)
 sql training with Edx
