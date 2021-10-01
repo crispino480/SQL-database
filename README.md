@@ -1,5 +1,5 @@
 
-## **Querying DataBase** (MYSQL)
+## **Querying DataBase - Database Management** (MYSQL)
 
 
 ###### Q1.
