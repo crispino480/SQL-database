@@ -1,6 +1,12 @@
 
 ## **Querying DataBase - Database Management** (MYSQL)
 
+**Set you Database to run the scripts:**
+
+   1 - *[Install a copy of MySQL on a local machine ](https://dev.mysql.com/doc/refman/8.0/en/installing.html)*
+ 
+   2 - *[Lab Guitar Shop Database Creation Script](https://drive.google.com/file/d/1x-vxsSx1uNGdjGrGonAzuRmBytHZsbjZ/view)*
+
 
 ###### Q1.
 Write a SELECT statement that returns four columns from the Products table: product_code, product_name, list_price, and discount_percent. Add an ORDER BY clause to this statement that sorts the result set by list price in descending sequence. 
